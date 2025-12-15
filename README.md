@@ -29,7 +29,7 @@ iam-learning-notes/
 ├── okta-notes.md                 → Okta platform notes  
 ├── saviynt-notes.md              → Saviynt IGA notes  
 ├── ldap-ad.md                    → LDAP & Active Directory  
-├── interview-questions.md        → IAM interview Q&A  
+
 
 ---
 
