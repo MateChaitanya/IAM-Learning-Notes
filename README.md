@@ -37,7 +37,7 @@ iam-learning-notes/
 </pre>
 
 
-> Each file is structured with **examples, diagrams, and practical notes** for easy understanding.
+> Each file is structured with **examples, and practical notes** for easy understanding.
 
 ---
 
@@ -73,5 +73,4 @@ To make learning more effective:
 > This repository is not just for storing notes—it’s your **personal IAM knowledge base**. Keep it alive and growing! 🚀
 
 
-## 🗂 Repository Structure
 
